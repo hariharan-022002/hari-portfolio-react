@@ -8,7 +8,7 @@ export const profile = {
   location: 'Madurai, India',
   resumeUrl: '/resume.pdf',
   socials: {
-    github: 'https://github.com/CodeHunterHari',
+    github: 'https://github.com/hariharan-022002',
     linkedin: 'https://www.linkedin.com/in/hariharanMuthalagan',
     behance: 'https://behance.com/haridesigns',
     instagram: 'https://instagram.com/haridesigns.jpeg',
@@ -41,8 +41,8 @@ export const projects = [
     tools: ['Python', 'Flask', 'Pandas', 'NumPy', 'NLTK', 'HTML/CSS'],
     image: '/assets/flipkart3.jpg',
     tag: 'Data Science',
-    github: 'https://github.com/CodeHunterHari',
-    demo: '#',
+    github: 'https://github.com/hariharan-022002/flipkart-review-analyzer',
+    demo: 'https://flipkart-review-analyzer.vercel.app/',
   },
   {
     title: 'Telecom Churn Prediction Engine',
@@ -51,7 +51,7 @@ export const projects = [
     tools: ['Python', 'Scikit-learn', 'Pandas', 'NumPy', 'Matplotlib', 'Seaborn'],
     image: '/assets/churn.png',
     tag: 'Machine Learning',
-    github: 'https://github.com/CodeHunterHari',
+    github: 'https://github.com/hariharan-022002/IntelligentCustomerRetention-Using-MachineLearning-for-Enhanced-Prediction-of-Telecom-Customer-Churn',
     demo: '#',
   },
   {
@@ -61,8 +61,8 @@ export const projects = [
     tools: ['Python', 'Streamlit', 'Scikit-learn', 'Pandas'],
     image: '/assets/ecomm.png',
     tag: 'Data Science',
-    github: 'https://github.com/CodeHunterHari',
-    demo: '#',
+    github: 'https://github.com/hariharan-022002/Drug-Classification-Using-Machine-Learning',
+    demo: 'https://drug-classification.vercel.app/',
   },
   {
     title: 'This Portfolio — v1',
@@ -71,8 +71,8 @@ export const projects = [
     tools: ['Flask', 'HTML/CSS', 'JavaScript', 'Vercel'],
     image: '/assets/dev.png',
     tag: 'Web Development',
-    github: 'https://github.com/CodeHunterHari',
-    demo: '#',
+    github: 'https://github.com/hariharan-022002/hari-portfolio',
+    demo: 'https://hariharan-portfolio.vercel.app/',
   },
 ]
 
